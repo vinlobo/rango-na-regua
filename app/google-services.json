@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "532877959203",
+    "project_id": "calangoejanja",
+    "storage_bucket": "calangoejanja.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:532877959203:android:819fae5c245bf729f85196",
+        "android_client_info": {
+          "package_name": "br.edu.unisenai.rangonaregua"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiG3AZ1E-2D8hPXj1-kO0cCUeS6wOTJXc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
