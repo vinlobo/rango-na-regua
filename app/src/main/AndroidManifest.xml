@@ -10,13 +10,16 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.RangoNaRegua">
         <activity
+            android:name=".MainActivity"
+            android:exported="false" />
+        <activity
             android:name=".DetalheActivity"
             android:exported="false" />
         <activity
             android:name=".NovoLugarActivity"
             android:exported="false" />
         <activity
-            android:name=".MainActivity"
+            android:name=".Login"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

@@ -12,7 +12,20 @@
           "package_name": "br.edu.unisenai.rangonaregua"
         }
       },
-      "oauth_client": [],
+      "oauth_client": [
+        {
+          "client_id": "532877959203-028b6jhre76jg0iapup17a5mc7ai72ec.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.edu.unisenai.rangonaregua",
+            "certificate_hash": "8f7c680e837482e09bb8c4fdc0c43e65c5b67f30"
+          }
+        },
+        {
+          "client_id": "532877959203-sl3mr7v5dipk1pt0190kpjtoclivu3e4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
       "api_key": [
         {
           "current_key": "AIzaSyDiG3AZ1E-2D8hPXj1-kO0cCUeS6wOTJXc"
@@ -20,7 +33,12 @@
       ],
       "services": {
         "appinvite_service": {
-          "other_platform_oauth_client": []
+          "other_platform_oauth_client": [
+            {
+              "client_id": "532877959203-sl3mr7v5dipk1pt0190kpjtoclivu3e4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
         }
       }
     }
